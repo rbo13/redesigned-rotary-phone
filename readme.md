@@ -1,6 +1,6 @@
 # Asnyc/Await on Node/MySQL
 
-> Trying how to promisify the node mysql package using the `util` standard library from node.
+> Trying how to promisify the [node mysql](https://github.com/mysqljs/mysql) package using the `util` standard library from node.
 
 ```js
 
